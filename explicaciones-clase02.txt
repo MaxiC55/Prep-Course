@@ -1,0 +1,18 @@
+
+Variables:
+vendrian a ser una especie de caja o espacio donde guardamos información/datos/funciones, etc, la tenemos q declarar y luego definir o inicializar .
+
+Strings: 
+son cadenas o hilos de texto establecidas por comillas, ("", '', y ``).
+
+Funciones: 
+son objetos llamables, quiere decir q podemos hacer q realize algo, pero solo se ejecuta cuando la llamamos, con su nombre dado para que repita el proceso, cambiando o no algunos parametros o cosas.
+
+argumentos/parametros : es eso q le damos a las funciones como medidas para luego reemplazarlas.
+
+return : es una parte de las funciones donde podemos ordenar q nos regrese algo q le pedimos, tambien cumple una función de terminar un bucle/ciclo, es decir q lo q esta abajo de un return, dentro de un mismo scoope no se ejecuta.
+
+Declaraciones: 'if' : esta declaración, es una sentencia q se establece con el fin de hacer q pase o no algo si se cumple lo q esta adentro de los ()
+
+Valores Booleanos: 'true' y false' : son datos q pueden ser true o false
+
