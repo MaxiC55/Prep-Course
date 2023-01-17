@@ -1,0 +1,11 @@
+
+
+FOR : Es una manera de generar un bucle como lo es un while o do while, pero con la diferencia de que con el for ademas de poner la condicion ponemos
+ hasta donde queremos que se repita, y ahi mismo lo iteramos.
+
+&& : es un operador logico, llamado "and" o "y" , establece que si alguno de los dos valores q comparemos es false, el resultado siempre va
+ a ser false, solo devuelve true, si los dos son true.
+
+|| : es un operador logico tambien, llamado "or" , si alguna de las condiciones es true siempre nos devuelve true, solo nos devuelve false si los dos son false
+
+! : al igual q los otros es un operador logico, y se llama "not", este devuelve el valor opuesto al q la condicion o valor le pongamos.
